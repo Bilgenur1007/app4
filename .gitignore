@@ -1,2 +1,7 @@
 bmw.txt
 audi.txt
+
+istanbul.txt
+
+uluslar/*
+!uluslar/türkiye.txt
